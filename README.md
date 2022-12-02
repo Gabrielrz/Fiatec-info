@@ -6,6 +6,8 @@ Puedes unirte a un grupo privado o crear uno nuevo para compartir la informacion
 
 <img src="fv.png" height="650px" width="1080px"/>
 
+<img src="promo.png" height="650px" width="1080px"/>
+
 <img src="fiatec_p1.png" height="800px" width="400px"/>
 
 <img src="fiatec_p2.png" height="800px" width="400px"/>
